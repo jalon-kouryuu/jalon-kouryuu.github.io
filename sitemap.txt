@@ -5,9 +5,13 @@ http://example.com/categories/index.html
 http://example.com/about/index.html
 http://example.com/2019/01/27/Home/
 http://example.com/tags/index.html
+http://example.com/2023/10/28/pandas-basic/
 http://example.com/2023/10/25/git-intro/
+http://example.com/2023/10/27/python-intro/
 http://example.com/
 http://example.com/tags/intro/
 http://example.com/tags/git/
+http://example.com/tags/python/
+http://example.com/tags/pandas/
 http://example.com/categories/intro/
 http://example.com/categories/tech/
